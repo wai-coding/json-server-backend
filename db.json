@@ -1,33 +1,114 @@
 {
-  "projects": [
+  "products": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "iPhone 13 Pro 128GB",
+      "price": 720,
+      "imgUrl": "iphone13pro.png",
+      "description": "iPhone 13 Pro in excellent condition, no scratches, battery health at 90%.",
+      "category": "Electronics",
+      "condition": "Used - Excellent",
+      "sellerName": "Carlos Martinez",
+      "sellerContact": "carlos@email.com"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "MacBook Air M1",
+      "price": 850,
+      "imgUrl": "macbookairm1.png",
+      "description": "MacBook Air with M1 chip, 8GB RAM, 256GB SSD. Lightly used.",
+      "category": "Computers",
+      "condition": "Used - Very Good",
+      "sellerName": "Laura Gomez",
+      "sellerContact": "laura@email.com"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "City Bicycle",
+      "price": 300,
+      "imgUrl": "bicycle.png",
+      "description": "Urban bicycle, size 28, perfect for daily commuting.",
+      "category": "Sports",
+      "condition": "Used - Good",
+      "sellerName": "Miguel Torres",
+      "sellerContact": "miguel@email.com"
+    },
+    {
+      "id": 4,
+      "title": "PlayStation 5 Console",
+      "price": 480,
+      "imgUrl": "ps5.png",
+      "description": "PlayStation 5 console with one controller and original cables.",
+      "category": "Video Games",
+      "condition": "Used - Excellent",
+      "sellerName": "Andrea Lopez",
+      "sellerContact": "andrea@email.com"
+    },
+    {
+      "id": 5,
+      "title": "LG 27'' 4K Monitor",
+      "price": 350,
+      "imgUrl": "monitorlg.png",
+      "description": "LG 4K UHD monitor, ideal for design and programming.",
+      "category": "Computers",
+      "condition": "Used - Very Good",
+      "sellerName": "Pedro Sanchez",
+      "sellerContact": "pedro@email.com"
+    },
+    {
+      "id": 6,
+      "title": "Sony WH-1000XM4 Headphones",
+      "price": 200,
+      "imgUrl": "sonyheadphones.png",
+      "description": "Noise-canceling headphones with premium sound quality.",
+      "category": "Audio",
+      "condition": "Used - Excellent",
+      "sellerName": "Lucia Fernandez",
+      "sellerContact": "lucia@email.com"
+    },
+    {
+      "id": 7,
+      "title": "Wooden Office Desk",
+      "price": 120,
+      "imgUrl": "desk.png",
+      "description": "Spacious and sturdy wooden office desk.",
+      "category": "Home",
+      "condition": "Used - Good",
+      "sellerName": "Javier Morales",
+      "sellerContact": "javier@email.com"
+    },
+    {
+      "id": 8,
+      "title": "Ergonomic Office Chair",
+      "price": 180,
+      "imgUrl": "chair.png",
+      "description": "Ergonomic chair designed for long working hours.",
+      "category": "Home",
+      "condition": "Used - Very Good",
+      "sellerName": "Natalia Ruiz",
+      "sellerContact": "natalia@email.com"
+    },
+    {
+      "id": 9,
+      "title": "Canon EOS 250D Camera",
+      "price": 450,
+      "imgUrl": "canon250d.png",
+      "description": "DSLR camera with 18-55mm lens included.",
+      "category": "Photography",
+      "condition": "Used - Excellent",
+      "sellerName": "Daniel Perez",
+      "sellerContact": "daniel@email.com"
+    },
+    {
+      "id": 10,
+      "title": "RGB Mechanical Keyboard",
+      "price": 90,
+      "imgUrl": "keyboard.png",
+      "description": "Mechanical keyboard with blue switches and RGB lighting.",
+      "category": "Accessories",
+      "condition": "New",
+      "sellerName": "Sofia Herrera",
+      "sellerContact": "sofia@email.com"
     }
   ]
 }
