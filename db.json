@@ -1,18 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "title": "iPhone 13 Pro 128GB",
-      "price": 720,
-      "imgUrl": "iphone13pro.png",
-      "description": "iPhone 13 Pro in excellent condition, no scratches, battery health at 90%.",
-      "category": "Electronics",
-      "condition": "Used - Excellent",
-      "sellerName": "Carlos Martinez",
-      "sellerContact": "carlos@email.com"
-    },
-    {
-      "id": 2,
       "title": "MacBook Air M1",
       "price": 850,
       "imgUrl": "macbookairm1.png",
@@ -20,10 +8,10 @@
       "category": "Computers",
       "condition": "Used - Very Good",
       "sellerName": "Laura Gomez",
-      "sellerContact": "laura@email.com"
+      "sellerContact": "laura@email.com",
+      "id": 1
     },
     {
-      "id": 3,
       "title": "City Bicycle",
       "price": 300,
       "imgUrl": "bicycle.png",
@@ -31,10 +19,10 @@
       "category": "Sports",
       "condition": "Used - Good",
       "sellerName": "Miguel Torres",
-      "sellerContact": "miguel@email.com"
+      "sellerContact": "miguel@email.com",
+      "id": 2
     },
     {
-      "id": 4,
       "title": "PlayStation 5 Console",
       "price": 480,
       "imgUrl": "ps5.png",
@@ -42,10 +30,10 @@
       "category": "Video Games",
       "condition": "Used - Excellent",
       "sellerName": "Andrea Lopez",
-      "sellerContact": "andrea@email.com"
+      "sellerContact": "andrea@email.com",
+      "id": 3
     },
     {
-      "id": 5,
       "title": "LG 27'' 4K Monitor",
       "price": 350,
       "imgUrl": "monitorlg.png",
@@ -53,32 +41,10 @@
       "category": "Computers",
       "condition": "Used - Very Good",
       "sellerName": "Pedro Sanchez",
-      "sellerContact": "pedro@email.com"
+      "sellerContact": "pedro@email.com",
+      "id": 4
     },
     {
-      "id": 6,
-      "title": "Sony WH-1000XM4 Headphones",
-      "price": 200,
-      "imgUrl": "sonyheadphones.png",
-      "description": "Noise-canceling headphones with premium sound quality.",
-      "category": "Audio",
-      "condition": "Used - Excellent",
-      "sellerName": "Lucia Fernandez",
-      "sellerContact": "lucia@email.com"
-    },
-    {
-      "id": 7,
-      "title": "Wooden Office Desk",
-      "price": 120,
-      "imgUrl": "desk.png",
-      "description": "Spacious and sturdy wooden office desk.",
-      "category": "Home",
-      "condition": "Used - Good",
-      "sellerName": "Javier Morales",
-      "sellerContact": "javier@email.com"
-    },
-    {
-      "id": 8,
       "title": "Ergonomic Office Chair",
       "price": 180,
       "imgUrl": "chair.png",
@@ -86,10 +52,10 @@
       "category": "Home",
       "condition": "Used - Very Good",
       "sellerName": "Natalia Ruiz",
-      "sellerContact": "natalia@email.com"
+      "sellerContact": "natalia@email.com",
+      "id": 5
     },
     {
-      "id": 9,
       "title": "Canon EOS 250D Camera",
       "price": 450,
       "imgUrl": "canon250d.png",
@@ -97,18 +63,228 @@
       "category": "Photography",
       "condition": "Used - Excellent",
       "sellerName": "Daniel Perez",
-      "sellerContact": "daniel@email.com"
+      "sellerContact": "daniel@email.com",
+      "id": 9
     },
     {
-      "id": 10,
-      "title": "RGB Mechanical Keyboard",
-      "price": 90,
+      "title": "iPhone 13 Pro",
+      "price": 780,
+      "imgUrl": "iphone13pro.png",
+      "description": "iPhone 13 Pro, 128GB, excellent condition with minimal signs of use.",
+      "category": "Mobile Phones",
+      "condition": "Used - Excellent",
+      "sellerName": "Rita Martins",
+      "sellerContact": "rita@email.com",
+      "id": 10
+    },
+    {
+      "title": "Samsung Galaxy S22",
+      "price": 620,
+      "imgUrl": "galaxys22.png",
+      "description": "Samsung Galaxy S22 unlocked, 128GB storage.",
+      "category": "Mobile Phones",
+      "condition": "Used - Very Good",
+      "sellerName": "João Costa",
+      "sellerContact": "joao@email.com",
+      "id": 11
+    },
+    {
+      "title": "Nintendo Switch Console",
+      "price": 260,
+      "imgUrl": "switch.png",
+      "description": "Nintendo Switch with dock, cables and Joy-Cons.",
+      "category": "Video Games",
+      "condition": "Used - Good",
+      "sellerName": "Ana Silva",
+      "sellerContact": "ana@email.com",
+      "id": 12
+    },
+    {
+      "title": "Sony WH-1000XM4 Headphones",
+      "price": 210,
+      "imgUrl": "sonyheadphones.png",
+      "description": "Noise cancelling wireless headphones, great sound quality.",
+      "category": "Audio",
+      "condition": "Used - Very Good",
+      "sellerName": "Bruno Lopes",
+      "sellerContact": "bruno@email.com",
+      "id": 13
+    },
+    {
+      "title": "Apple Watch Series 7",
+      "price": 290,
+      "imgUrl": "applewatch7.png",
+      "description": "Apple Watch Series 7, GPS model, 45mm.",
+      "category": "Wearables",
+      "condition": "Used - Excellent",
+      "sellerName": "Sofia Almeida",
+      "sellerContact": "sofia@email.com",
+      "id": 14
+    },
+    {
+      "title": "Dell XPS 13 Laptop",
+      "price": 900,
+      "imgUrl": "dellxps13.png",
+      "description": "Dell XPS 13, Intel i7, 16GB RAM, 512GB SSD.",
+      "category": "Computers",
+      "condition": "Used - Very Good",
+      "sellerName": "Carlos Pinto",
+      "sellerContact": "carlos@email.com",
+      "id": 15
+    },
+    {
+      "title": "GoPro Hero 10",
+      "price": 320,
+      "imgUrl": "gopro10.png",
+      "description": "GoPro Hero 10 action camera with accessories.",
+      "category": "Photography",
+      "condition": "Used - Excellent",
+      "sellerName": "Tiago Moreira",
+      "sellerContact": "tiago@email.com",
+      "id": 16
+    },
+    {
+      "title": "Electric Scooter Xiaomi",
+      "price": 380,
+      "imgUrl": "scooterxiaomi.png",
+      "description": "Xiaomi electric scooter, ideal for city commuting.",
+      "category": "Transport",
+      "condition": "Used - Good",
+      "sellerName": "Inês Rocha",
+      "sellerContact": "ines@email.com",
+      "id": 17
+    },
+    {
+      "title": "Gaming Mechanical Keyboard",
+      "price": 95,
       "imgUrl": "keyboard.png",
-      "description": "Mechanical keyboard with blue switches and RGB lighting.",
+      "description": "Mechanical RGB gaming keyboard with blue switches.",
       "category": "Accessories",
-      "condition": "New",
-      "sellerName": "Sofia Herera",
-      "sellerContact": "sofia@email.com"
+      "condition": "Used - Very Good",
+      "sellerName": "Marco Teixeira",
+      "sellerContact": "marco@email.com",
+      "id": 18
+    },
+    {
+      "title": "Logitech MX Master 3 Mouse",
+      "price": 75,
+      "imgUrl": "mxmaster3.png",
+      "description": "Wireless mouse, perfect for productivity.",
+      "category": "Accessories",
+      "condition": "Used - Excellent",
+      "sellerName": "Helena Sousa",
+      "sellerContact": "helena@email.com",
+      "id": 19
+    },
+    {
+      "title": "iPad Air 4th Generation",
+      "price": 540,
+      "imgUrl": "ipadair4.png",
+      "description": "iPad Air 4th gen, 64GB, Wi-Fi model.",
+      "category": "Tablets",
+      "condition": "Used - Very Good",
+      "sellerName": "Paulo Mendes",
+      "sellerContact": "paulo@email.com",
+      "id": 20
+    },
+    {
+      "title": "Kindle Paperwhite",
+      "price": 110,
+      "imgUrl": "kindle.png",
+      "description": "Amazon Kindle Paperwhite with backlight.",
+      "category": "Electronics",
+      "condition": "Used - Good",
+      "sellerName": "Filipa Neves",
+      "sellerContact": "filipa@email.com",
+      "id": 21
+    },
+    {
+      "title": "Bluetooth Speaker JBL",
+      "price": 85,
+      "imgUrl": "jblspeaker.png",
+      "description": "Portable JBL Bluetooth speaker, waterproof.",
+      "category": "Audio",
+      "condition": "Used - Very Good",
+      "sellerName": "Ricardo Fonseca",
+      "sellerContact": "ricardo@email.com",
+      "id": 22
+    },
+    {
+      "title": "Smart TV Samsung 50\"",
+      "price": 420,
+      "imgUrl": "samsungtv.png",
+      "description": "Samsung 50-inch Smart TV with 4K resolution.",
+      "category": "Home Entertainment",
+      "condition": "Used - Very Good",
+      "sellerName": "Patrícia Lima",
+      "sellerContact": "patricia@email.com",
+      "id": 23
+    },
+    {
+      "title": "Office Desk",
+      "price": 150,
+      "imgUrl": "desk.png",
+      "description": "Wooden office desk in very good condition.",
+      "category": "Home",
+      "condition": "Used - Good",
+      "sellerName": "André Ribeiro",
+      "sellerContact": "andre@email.com",
+      "id": 24
+    },
+    {
+      "title": "Wireless Router TP-Link",
+      "price": 65,
+      "imgUrl": "tplinkrouter.png",
+      "description": "Dual-band wireless router, easy setup.",
+      "category": "Networking",
+      "condition": "Used - Very Good",
+      "sellerName": "Vera Matos",
+      "sellerContact": "vera@email.com",
+      "id": 25
+    },
+    {
+      "title": "Fitness Smart Band",
+      "price": 45,
+      "imgUrl": "smartband.png",
+      "description": "Fitness tracker with heart rate monitoring.",
+      "category": "Wearables",
+      "condition": "Used - Good",
+      "sellerName": "Luis Cardoso",
+      "sellerContact": "luis@email.com",
+      "id": 26
+    },
+    {
+      "title": "DSLR Camera Tripod",
+      "price": 60,
+      "imgUrl": "tripod.png",
+      "description": "Lightweight tripod for DSLR and mirrorless cameras.",
+      "category": "Photography",
+      "condition": "Used - Very Good",
+      "sellerName": "Marta Cunha",
+      "sellerContact": "marta@email.com",
+      "id": 27
+    },
+    {
+      "title": "External SSD 1TB",
+      "price": 130,
+      "imgUrl": "ssd1tb.png",
+      "description": "Portable external SSD with USB-C connection.",
+      "category": "Storage",
+      "condition": "Used - Excellent",
+      "sellerName": "Nuno Azevedo",
+      "sellerContact": "nuno@email.com",
+      "id": 28
+    },
+    {
+      "title": "Portable Power Bank",
+      "price": 35,
+      "imgUrl": "powerbank.png",
+      "description": "20,000mAh power bank for smartphones and tablets.",
+      "category": "Accessories",
+      "condition": "Used - Good",
+      "sellerName": "Cláudia Pires",
+      "sellerContact": "claudia@email.com",
+      "id": 29
     }
   ]
 }
