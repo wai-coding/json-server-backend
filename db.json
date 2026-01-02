@@ -1,20 +1,9 @@
 {
   "products": [
     {
-      "title": "MacBook Air M1",
-      "price": 850,
-      "imgUrl": "macbookairm1.png",
-      "description": "MacBook Air with M1 chip, 8GB RAM, 256GB SSD. Lightly used.",
-      "category": "Computers",
-      "condition": "Used - Very Good",
-      "sellerName": "Laura Gomez",
-      "sellerContact": "laura@email.com",
-      "id": 1
-    },
-    {
       "title": "City Bicycle",
       "price": 300,
-      "imgUrl": "bicycle.png",
+      "imgUrl": "https://images.unsplash.com/photo-1627363707801-543bdb44faf3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Urban bicycle, size 28, perfect for daily commuting.",
       "category": "Sports",
       "condition": "Used - Good",
@@ -25,7 +14,7 @@
     {
       "title": "PlayStation 5 Console",
       "price": 480,
-      "imgUrl": "ps5.png",
+      "imgUrl": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
       "description": "PlayStation 5 console with one controller and original cables.",
       "category": "Video Games",
       "condition": "Used - Excellent",
@@ -36,7 +25,7 @@
     {
       "title": "LG 27'' 4K Monitor",
       "price": 350,
-      "imgUrl": "monitorlg.png",
+      "imgUrl": "https://images.unsplash.com/photo-1666771410003-8437c4781d49?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "LG 4K UHD monitor, ideal for design and programming.",
       "category": "Computers",
       "condition": "Used - Very Good",
@@ -47,7 +36,7 @@
     {
       "title": "Ergonomic Office Chair",
       "price": 180,
-      "imgUrl": "chair.png",
+      "imgUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
       "description": "Ergonomic chair designed for long working hours.",
       "category": "Home",
       "condition": "Used - Very Good",
@@ -58,7 +47,7 @@
     {
       "title": "Canon EOS 250D Camera",
       "price": 450,
-      "imgUrl": "canon250d.png",
+      "imgUrl": "https://images.unsplash.com/photo-1638181789228-33f77ebe56f4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "DSLR camera with 18-55mm lens included.",
       "category": "Photography",
       "condition": "Used - Excellent",
@@ -69,7 +58,7 @@
     {
       "title": "iPhone 13 Pro",
       "price": 780,
-      "imgUrl": "iphone13pro.png",
+      "imgUrl": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5",
       "description": "iPhone 13 Pro, 128GB, excellent condition with minimal signs of use.",
       "category": "Mobile Phones",
       "condition": "Used - Excellent",
@@ -80,7 +69,7 @@
     {
       "title": "Samsung Galaxy S22",
       "price": 620,
-      "imgUrl": "galaxys22.png",
+      "imgUrl": "https://images.unsplash.com/photo-1707438095934-03acf670887e?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Samsung Galaxy S22 unlocked, 128GB storage.",
       "category": "Mobile Phones",
       "condition": "Used - Very Good",
@@ -91,7 +80,7 @@
     {
       "title": "Nintendo Switch Console",
       "price": 260,
-      "imgUrl": "switch.png",
+      "imgUrl": "https://images.unsplash.com/photo-1612036781124-847f8939b154?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Nintendo Switch with dock, cables and Joy-Cons.",
       "category": "Video Games",
       "condition": "Used - Good",
@@ -102,7 +91,7 @@
     {
       "title": "Sony WH-1000XM4 Headphones",
       "price": 210,
-      "imgUrl": "sonyheadphones.png",
+      "imgUrl": "https://images.unsplash.com/photo-1583394838336-acd977736f90",
       "description": "Noise cancelling wireless headphones, great sound quality.",
       "category": "Audio",
       "condition": "Used - Very Good",
@@ -113,7 +102,7 @@
     {
       "title": "Apple Watch Series 7",
       "price": 290,
-      "imgUrl": "applewatch7.png",
+      "imgUrl": "https://images.unsplash.com/photo-1671195828444-eb720226a961?q=80&w=1136&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Apple Watch Series 7, GPS model, 45mm.",
       "category": "Wearables",
       "condition": "Used - Excellent",
@@ -124,7 +113,7 @@
     {
       "title": "Dell XPS 13 Laptop",
       "price": 900,
-      "imgUrl": "dellxps13.png",
+      "imgUrl": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Dell XPS 13, Intel i7, 16GB RAM, 512GB SSD.",
       "category": "Computers",
       "condition": "Used - Very Good",
@@ -135,7 +124,7 @@
     {
       "title": "GoPro Hero 10",
       "price": 320,
-      "imgUrl": "gopro10.png",
+      "imgUrl": "https://images.unsplash.com/photo-1555611637-09de5810478e?q=80&w=1124&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "GoPro Hero 10 action camera with accessories.",
       "category": "Photography",
       "condition": "Used - Excellent",
@@ -146,7 +135,7 @@
     {
       "title": "Electric Scooter Xiaomi",
       "price": 380,
-      "imgUrl": "scooterxiaomi.png",
+      "imgUrl": "https://images.unsplash.com/photo-1597260491619-bab87197869f?q=80&w=626&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Xiaomi electric scooter, ideal for city commuting.",
       "category": "Transport",
       "condition": "Used - Good",
@@ -157,7 +146,7 @@
     {
       "title": "Gaming Mechanical Keyboard",
       "price": 95,
-      "imgUrl": "keyboard.png",
+      "imgUrl": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef",
       "description": "Mechanical RGB gaming keyboard with blue switches.",
       "category": "Accessories",
       "condition": "Used - Very Good",
@@ -168,7 +157,7 @@
     {
       "title": "Logitech MX Master 3 Mouse",
       "price": 75,
-      "imgUrl": "mxmaster3.png",
+      "imgUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7",
       "description": "Wireless mouse, perfect for productivity.",
       "category": "Accessories",
       "condition": "Used - Excellent",
@@ -179,7 +168,7 @@
     {
       "title": "iPad Air 4th Generation",
       "price": 540,
-      "imgUrl": "ipadair4.png",
+      "imgUrl": "https://images.unsplash.com/photo-1661340272675-f6829791246e?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "iPad Air 4th gen, 64GB, Wi-Fi model.",
       "category": "Tablets",
       "condition": "Used - Very Good",
@@ -190,7 +179,7 @@
     {
       "title": "Kindle Paperwhite",
       "price": 110,
-      "imgUrl": "kindle.png",
+      "imgUrl": "https://images.unsplash.com/photo-1577344224573-f9280c105a85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Amazon Kindle Paperwhite with backlight.",
       "category": "Electronics",
       "condition": "Used - Good",
@@ -201,7 +190,7 @@
     {
       "title": "Bluetooth Speaker JBL",
       "price": 85,
-      "imgUrl": "jblspeaker.png",
+      "imgUrl": "https://images.unsplash.com/photo-1608488458196-61cd3a720de8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Portable JBL Bluetooth speaker, waterproof.",
       "category": "Audio",
       "condition": "Used - Very Good",
@@ -212,7 +201,7 @@
     {
       "title": "Smart TV Samsung 50\"",
       "price": 420,
-      "imgUrl": "samsungtv.png",
+      "imgUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1",
       "description": "Samsung 50-inch Smart TV with 4K resolution.",
       "category": "Home Entertainment",
       "condition": "Used - Very Good",
@@ -223,7 +212,7 @@
     {
       "title": "Office Desk",
       "price": 150,
-      "imgUrl": "desk.png",
+      "imgUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd",
       "description": "Wooden office desk in very good condition.",
       "category": "Home",
       "condition": "Used - Good",
@@ -234,7 +223,7 @@
     {
       "title": "Wireless Router TP-Link",
       "price": 65,
-      "imgUrl": "tplinkrouter.png",
+      "imgUrl": "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Dual-band wireless router, easy setup.",
       "category": "Networking",
       "condition": "Used - Very Good",
@@ -245,7 +234,7 @@
     {
       "title": "Fitness Smart Band",
       "price": 45,
-      "imgUrl": "smartband.png",
+      "imgUrl": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288",
       "description": "Fitness tracker with heart rate monitoring.",
       "category": "Wearables",
       "condition": "Used - Good",
@@ -256,7 +245,7 @@
     {
       "title": "DSLR Camera Tripod",
       "price": 60,
-      "imgUrl": "tripod.png",
+      "imgUrl": "https://plus.unsplash.com/premium_photo-1721133227473-55856ce60871?q=80&w=1149&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Lightweight tripod for DSLR and mirrorless cameras.",
       "category": "Photography",
       "condition": "Used - Very Good",
@@ -265,9 +254,9 @@
       "id": 27
     },
     {
-      "title": "External SSD 1TB",
+      "title": "External SSD 1TB Samsung",
       "price": 130,
-      "imgUrl": "ssd1tb.png",
+      "imgUrl": "https://images.unsplash.com/photo-1628557118391-56cd62c9f2cb?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "Portable external SSD with USB-C connection.",
       "category": "Storage",
       "condition": "Used - Excellent",
@@ -278,13 +267,24 @@
     {
       "title": "Portable Power Bank",
       "price": 35,
-      "imgUrl": "powerbank.png",
+      "imgUrl": "https://images.unsplash.com/photo-1594843665794-446ce915d840?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "20,000mAh power bank for smartphones and tablets.",
       "category": "Accessories",
       "condition": "Used - Good",
       "sellerName": "Cláudia Pires",
       "sellerContact": "claudia@email.com",
       "id": 29
+    },
+    {
+      "title": "dagdfg",
+      "price": 33,
+      "imgUrl": "https://plus.unsplash.com/premium_photo-1672759362223-2da21a708467?q=80&w=712&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "aklsfdmasklmdas",
+      "category": "",
+      "condition": "new",
+      "sellerName": "victor",
+      "sellerContact": "aksmdk @hotmail.com",
+      "id": 30
     }
   ]
 }
