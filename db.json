@@ -9,6 +9,7 @@
       "condition": "Used - Good",
       "sellerName": "Miguel Torres",
       "sellerContact": "miguel@email.com",
+      "status": "available",
       "id": 2
     },
     {
@@ -20,6 +21,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Andrea Lopez",
       "sellerContact": "andrea@email.com",
+      "status": "available",
       "id": 3
     },
     {
@@ -31,6 +33,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Pedro Sanchez",
       "sellerContact": "pedro@email.com",
+      "status": "available",
       "id": 4
     },
     {
@@ -42,6 +45,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Natalia Ruiz",
       "sellerContact": "natalia@email.com",
+      "status": "available",
       "id": 5
     },
     {
@@ -53,6 +57,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Daniel Perez",
       "sellerContact": "daniel@email.com",
+      "status": "available",
       "id": 9
     },
     {
@@ -64,6 +69,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Rita Martins",
       "sellerContact": "rita@email.com",
+      "status": "available",
       "id": 10
     },
     {
@@ -75,6 +81,7 @@
       "condition": "Used - Very Good",
       "sellerName": "João Costa",
       "sellerContact": "joao@email.com",
+      "status": "available",
       "id": 11
     },
     {
@@ -86,6 +93,7 @@
       "condition": "Used - Good",
       "sellerName": "Ana Silva",
       "sellerContact": "ana@email.com",
+      "status": "available",
       "id": 12
     },
     {
@@ -97,6 +105,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Bruno Lopes",
       "sellerContact": "bruno@email.com",
+      "status": "available",
       "id": 13
     },
     {
@@ -108,6 +117,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Sofia Almeida",
       "sellerContact": "sofia@email.com",
+      "status": "available",
       "id": 14
     },
     {
@@ -119,6 +129,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Carlos Pinto",
       "sellerContact": "carlos@email.com",
+      "status": "available",
       "id": 15
     },
     {
@@ -130,6 +141,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Tiago Moreira",
       "sellerContact": "tiago@email.com",
+      "status": "available",
       "id": 16
     },
     {
@@ -141,6 +153,7 @@
       "condition": "Used - Good",
       "sellerName": "Inês Rocha",
       "sellerContact": "ines@email.com",
+      "status": "available",
       "id": 17
     },
     {
@@ -152,6 +165,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Marco Teixeira",
       "sellerContact": "marco@email.com",
+      "status": "available",
       "id": 18
     },
     {
@@ -163,6 +177,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Helena Sousa",
       "sellerContact": "helena@email.com",
+      "status": "available",
       "id": 19
     },
     {
@@ -174,6 +189,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Paulo Mendes",
       "sellerContact": "paulo@email.com",
+      "status": "available",
       "id": 20
     },
     {
@@ -185,6 +201,7 @@
       "condition": "Used - Good",
       "sellerName": "Filipa Neves",
       "sellerContact": "filipa@email.com",
+      "status": "available",
       "id": 21
     },
     {
@@ -196,6 +213,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Ricardo Fonseca",
       "sellerContact": "ricardo@email.com",
+      "status": "available",
       "id": 22
     },
     {
@@ -207,6 +225,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Patrícia Lima",
       "sellerContact": "patricia@email.com",
+      "status": "available",
       "id": 23
     },
     {
@@ -218,6 +237,7 @@
       "condition": "Used - Good",
       "sellerName": "André Ribeiro",
       "sellerContact": "andre@email.com",
+      "status": "available",
       "id": 24
     },
     {
@@ -229,6 +249,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Vera Matos",
       "sellerContact": "vera@email.com",
+      "status": "available",
       "id": 25
     },
     {
@@ -240,6 +261,7 @@
       "condition": "Used - Good",
       "sellerName": "Luis Cardoso",
       "sellerContact": "luis@email.com",
+      "status": "available",
       "id": 26
     },
     {
@@ -251,6 +273,7 @@
       "condition": "Used - Very Good",
       "sellerName": "Marta Cunha",
       "sellerContact": "marta@email.com",
+      "status": "available",
       "id": 27
     },
     {
@@ -262,6 +285,7 @@
       "condition": "Used - Excellent",
       "sellerName": "Nuno Azevedo",
       "sellerContact": "nuno@email.com",
+      "status": "available",
       "id": 28
     },
     {
@@ -273,6 +297,7 @@
       "condition": "Used - Good",
       "sellerName": "Cláudia Pires",
       "sellerContact": "claudia@email.com",
+      "status": "available",
       "id": 29
     },
     {
@@ -284,7 +309,32 @@
       "condition": "new",
       "sellerName": "victor",
       "sellerContact": "aksmdk @hotmail.com",
+      "status": "available",
       "id": 30
+    },
+    {
+      "title": "Sold Test",
+      "price": 1,
+      "imgUrl": "",
+      "description": "Test",
+      "category": "",
+      "condition": "",
+      "sellerName": "",
+      "sellerContact": "",
+      "status": "sold",
+      "id": 31
+    },
+    {
+      "title": "Available Test",
+      "price": 1,
+      "imgUrl": "",
+      "description": "Test",
+      "category": "",
+      "condition": "",
+      "sellerName": "",
+      "sellerContact": "",
+      "status": "available",
+      "id": 32
     }
   ]
 }
